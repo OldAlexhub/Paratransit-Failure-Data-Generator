@@ -1,5 +1,7 @@
 # Paratransit Failure Data Generator
 
+![Paratransit Failure Data Generator logo](logo-icon.png)
+
 Windows desktop app for generating synthetic row-level paratransit operating data with believable failure scenarios. Each generation automatically mixes a different set of hidden operational problems so you can analyze the raw data later without manually choosing issue types.
 
 The exported files are intended to resemble raw operating records, not a scored or pre-analyzed performance package. The generator uses hidden failure logic internally, but it avoids exporting fields that already label trips as late or runs as overtime for you.
