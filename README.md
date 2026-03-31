@@ -94,3 +94,5 @@ README.md
 - It is not a dispatching tool.
 - It is not an analytics dashboard.
 - Preview is intentionally limited to the first 200 rows per dataset.
+
+Created by Mohamed Gad
